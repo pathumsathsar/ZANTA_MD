@@ -12,7 +12,7 @@ module.exports = {
 
     // 🤖 Default Fallback Settings
     DEFAULT_BOT_NAME: process.env.DEFAULT_BOT_NAME || "ZANTA-MD",
-    DEFAULT_OWNER_NAME: process.env.DEFAULT_OWNER_NAME || "Akash nimsara",
+    DEFAULT_OWNER_NAME: process.env.DEFAULT_OWNER_NAME || "Pathum Sathsara",
     DEFAULT_PREFIX: process.env.DEFAULT_PREFIX || ".",
 
     // 🖼️ Media Settings (Alive image & Menu)
